@@ -1,7 +1,6 @@
-
-# requirements.txt (alternative for cartopy)
 streamlit
 matplotlib
 pandas
 numpy
-# cartopy  # comment out if causing issues
+seaborn
+scikit-learn
